@@ -1,10 +1,15 @@
+//=======================================================================================================
+// Copyright 2015 Asgeir Bjorgan, Lise Lyngsnes Randeberg, Norwegian University of Science and Technology
+// Distributed under the MIT License.
+// (See accompanying file LICENSE or copy at
+// http://opensource.org/licenses/MIT)
+//=======================================================================================================
+
 #include "wavelets.h"
 #include <cuda_runtime.h>
 #include <cublas_v2.h>
 #include <iostream>
 using namespace std;
-
-
 
 
 
